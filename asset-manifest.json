@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ed938ac.css",
-    "main.js": "/static/js/main.317f3ad6.js",
-    "static/js/879.911b39ea.chunk.js": "/static/js/879.911b39ea.chunk.js",
-    "static/js/453.0d62cd11.chunk.js": "/static/js/453.0d62cd11.chunk.js",
-    "index.html": "/index.html",
-    "main.3ed938ac.css.map": "/static/css/main.3ed938ac.css.map",
-    "main.317f3ad6.js.map": "/static/js/main.317f3ad6.js.map",
-    "879.911b39ea.chunk.js.map": "/static/js/879.911b39ea.chunk.js.map",
-    "453.0d62cd11.chunk.js.map": "/static/js/453.0d62cd11.chunk.js.map"
+    "main.css": "/TCD-RFP_demo/static/css/main.3ed938ac.css",
+    "main.js": "/TCD-RFP_demo/static/js/main.e1857772.js",
+    "static/js/879.911b39ea.chunk.js": "/TCD-RFP_demo/static/js/879.911b39ea.chunk.js",
+    "static/js/453.0d62cd11.chunk.js": "/TCD-RFP_demo/static/js/453.0d62cd11.chunk.js",
+    "index.html": "/TCD-RFP_demo/index.html",
+    "main.3ed938ac.css.map": "/TCD-RFP_demo/static/css/main.3ed938ac.css.map",
+    "main.e1857772.js.map": "/TCD-RFP_demo/static/js/main.e1857772.js.map",
+    "879.911b39ea.chunk.js.map": "/TCD-RFP_demo/static/js/879.911b39ea.chunk.js.map",
+    "453.0d62cd11.chunk.js.map": "/TCD-RFP_demo/static/js/453.0d62cd11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ed938ac.css",
-    "static/js/main.317f3ad6.js"
+    "static/js/main.e1857772.js"
   ]
 }
